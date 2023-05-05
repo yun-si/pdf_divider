@@ -1,7 +1,7 @@
 # pdf_divider
 將pdf檔中的中文字分段，每段字數不超過512。
-A tool to divide chinese text in a pdf into blocks. Each block's length is smaller than 512 for most language model.
-
+A tool to divide chinese text in a pdf into blocks. Each block's length is smaller than 512 for most language model.  
+**主要使用語言：python**  
 **執行檔資料夾連結**：https://drive.google.com/drive/folders/1xEuwa94bgNYEE1yrdXXP6pZNwNCsLdu5?usp=share_link
 ## 使用方法：
 1. 將連結中的.exe檔和Output資料夾同時下載
